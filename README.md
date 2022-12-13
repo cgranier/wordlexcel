@@ -7,19 +7,19 @@ wordlexcel is a simple tool to help you solve WORDLE puzzles, as well as an expe
 ## How to use it
 It's very simple. worldexcel uses cells B2, C2, and D2 for your inputs.
 
-In cell B2, under the <s>green</s> heading, enter any letters you have that are in the correct spot. Use an interrogation sign (?) for positions you are not certain of.
+In cell B2, under the <b>green</b> heading, enter any letters you have that are in the correct spot. Use an interrogation sign (?) for positions you are not certain of.
 
-Example: if you used the word WEARY and the W is marked as being in the correct spot, you would input W???? into B2.
+Example: if you used the word WEARY and the W is marked as being in the correct spot, you would input <b>W????</b> into B2.
 
-In cell C2, under the <s>yellow</s> heading, enter any letters that are in the solution but in the wrong position. again, Use an interrogation sign (?) for positions you have not identified yet.
+In cell C2, under the <b>yellow</b> heading, enter any letters that are in the solution but in the wrong position. again, Use an interrogation sign (?) for positions you have not identified yet.
 
-Example: if you used the word WEARY and the A and Y are marked as being in the solution word but in the wrong spot, you would enter ??A?Y into C2.
+Example: if you used the word WEARY and the A and Y are marked as being in the solution word but in the wrong spot, you would enter <b>??A?Y</b> into C2.
 
-In cell D2, under the <s>gray</s> heading, enter any letters you have used that are not in the solution.
+In cell D2, under the <b>gray</b> heading, enter any letters you have used that are not in the solution.
 
-Example: if you used the word WEARY and see that the letters E and R are not in the solution, simply enter ER into D3.
+Example: if you used the word WEARY and see that the letters E and R are not in the solution, simply enter <b>ER</b> into D3.
 
-The possible solution to the wordle puzzle will be shown under the <s>solutions</s> heading in cell C3.
+The possible solution to the wordle puzzle will be shown under the <b>solutions</b> heading in cell C3.
 
 ## Issues
 
