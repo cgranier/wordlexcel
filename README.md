@@ -1,6 +1,8 @@
 # wordlexcel
 An Excel spreadsheet to help you solve WORDLE puzzles
 
+[Sample](images/screenshot_solutions.png)
+
 ## What does it do?
 wordlexcel is a simple tool to help you solve WORDLE puzzles, as well as an experiment on Excel's string matching and manipulation functions.
 
